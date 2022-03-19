@@ -13,8 +13,8 @@ python generate_image.py
 
 ### 2. Script options
 
-* --InFolder: directory to input images to align
-* --OutFolder: directory where to place generates align images
+* --InFolder: Input images directory
+* --OutFolder: Output directory for generated images
 * --method: landmark library. So far, supported are 'mediapipe' and 'dlib'
 * --no_padding: Do not us padding.
 
