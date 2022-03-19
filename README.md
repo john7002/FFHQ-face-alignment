@@ -7,7 +7,7 @@ Launch the following script:
 python generate_image.py
 ```
 
-<img src="imgs/align_1.png">
+<img src="imgs/align1.png" width=400px>
 
 ### 2. Script options
 
@@ -15,14 +15,21 @@ python generate_image.py
 * --OutFolder: directory where to place generates align images
 * --method: landmark library. So far, supported are 'mediapipe' and 'dlib'
 * --no_padding: Do not us padding.
+
+<img src="imgs/align3.png" width=400px>
+
 * --rotate_level. Do not rotate face.
 
-<img src="imgs/align_2.png" size= 200px>
+<img src="imgs/align2.png" width=500px>
 
 * * --size_output. Image output size. Default is 1024
 
 
+Script is able to manage multi faces in a single image.
 
+<img src="imgs/align4.png" width=500px>
+
+### 3. Photo credits
 
 
 
