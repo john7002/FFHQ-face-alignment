@@ -1,5 +1,4 @@
 import argparse
-from numpy.core.numeric import True_
 from tqdm import tqdm
 import os
 from landmarks import get_face_landmarks
